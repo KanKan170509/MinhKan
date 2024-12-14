@@ -1,0 +1,276 @@
+/* CSS Document */
+body{
+	height:800px;
+	width:1000px;
+	margin:auto;
+	float:none;
+}
+
+.banner {
+  position: relative; 
+}
+
+.banner-text-right {
+  position: absolute; 
+  bottom: 10px; 
+  color: #00F;
+  font-size: 16px; 
+  padding:0 10px 0 10px;
+  margin-top:-10px;
+  border-right:2px solid #00F;
+}
+.banner-text-right {
+  right: 10px; 
+}
+.menu{
+	height:30px;
+	width:1000px;
+	background:#39F;
+}
+.content{
+	height:600px;
+	width:1000px;
+	background:url(file:///D|/LeNgTuUyen-NgPhYenVyT10/img/nen.gif);
+	margin:0px;
+	padding:0px;
+}
+.contentleft{
+	height:600px;
+	width:200px;
+	float:left;
+	background:url(file:///D|/LeNgTuUyen-NgPhYenVyT10/img/nen.gif);
+}
+.contentmid{
+	height:600px;
+	width:600px;
+	background:url(file:///D|/LeNgTuUyen-NgPhYenVyT10/img/nen.gif);
+	float:left;
+}
+.Ma{
+	width:600px;
+	height:30px;
+	background:#ffed63;
+	}
+.Mb{
+	width:600px;
+	height:60px;
+	font-size:17px;
+	}
+.Mc{
+	width:600px;
+	height:30px;
+	background:#ffed63;
+	}
+.Md{
+	width:600px;
+	height:80px;
+	
+	}
+.hinht{
+	width:150px;
+	height:80px;
+	background:#c70550;
+	float:left;
+
+}
+.chu{
+	width:450px;
+	height:80px;
+	float:left;
+	font-size:17px;
+}
+.MM{
+	width:600px;
+	height:30px;
+	background:#ffed63;
+	}
+.MK{
+	width:600px;
+	height:80px;
+	}
+.hinhf{
+	width:150px;
+	height:111.5px;
+	float:right;
+	background:#8d50c7;
+}
+.chuf{
+	width:450px;
+	height:80px;
+	font-size:17px;
+}
+.chuff{
+	width:450px;
+	height:30px;
+	background:#ffed63;
+}
+.ML{
+	width:450px;
+	height:30px;
+	background:#ffed63;
+	}
+.hinhj{
+	width:150px;
+	height:111.5px;
+	float:right;
+	background:#8d50c7;
+}
+
+.chuj{
+	width:450px;
+	height:80px;
+	font-size:16px;
+}
+.chujj{
+	width:450px;
+	height:30px;
+	background:#ffed63;
+}
+.Mh{
+	width:500px;
+	height:130px;
+	
+}
+.hinhh{
+	width:130px;
+	height:130px;
+	background:#50b3c7;
+	float:left;
+}
+.chuh{
+	width:370px;
+	height:130px;
+	
+	float:right;
+	font-size:15px;
+
+}
+.Me{
+	width:500px;
+	height:30px;
+	background:#ffed63;
+	}
+
+.contentright{
+	height:600px;
+	width:200px;
+	float:right;
+	background:url(file:///D|/LeNgTuUyen-NgPhYenVyT10/img/nen.gif);
+}
+.footer{
+	float:right;
+	height:70px;
+	width:1000px;
+	background:#0F9;
+}
+.menu ul {
+	margin:0px;	
+	padding:0px;
+	float:right;
+	padding:125px 0px 0px 0px;	
+
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding:0px 3px 0px 3px;
+	border-right:1px solid #3116fa;
+}
+.menu ul li:hover{
+	background:#16fac5;
+	transition: 0.4s;
+	-moz-transition: 0.4s;
+	-webkit-transition: 0.4s;
+	padding:0px 3px 7px 3px;
+
+}
+.conL1{
+	width:150px;
+	height:160px;
+	background:#e316fa;
+	font-size:15px;
+}
+.conL2{
+	width:150px;
+	height:145px;
+	background:#4f541c;
+
+}
+.conL3{
+	width:150px;
+	height:145px;
+	background:#CC3300;
+
+}
+
+	.a{
+		width:200px;
+		height:20px;
+		background:#fa8c16;
+	}
+	.c{
+		width:200px;
+		height:20px;
+		background:#fa8c16;
+	}
+	.e{
+		width:200px;
+		height:20px;
+		background:#fa8c16;
+	}
+	.g{
+		width:200px;
+		height:20px;
+		background:#fa8c16;}
+	.b{
+		width:200px;
+		height:20px;
+		background:#ffffff;
+	}
+	.d{
+		width:200px;
+		height:20px;
+		background:#ffffff;
+	}
+	.f{
+		width:200px;
+		height:20px;
+		background:#ffffff;
+	}
+	.j{
+		width:200px;
+		height:20px;
+		background:#ffffff;
+	}
+	.a:hover{
+		
+		background:#f7eb00;
+	}
+	.c:hover{
+		
+		background:#f7eb00;
+	}
+	.e:hover{
+		
+		background:#f7eb00;
+	}
+	.g:hover{
+		
+		background:#f7eb00;
+	}
+	.b:hover{
+		
+		background:#f7eb00;
+	}
+	.d:hover{
+		
+		background:#f7eb00;
+	}
+	.f:hover{
+		
+		background:#f7eb00;
+	}
+	.j:hover{
+		background:#f7eb00;
+	}
+
